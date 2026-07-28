@@ -20,7 +20,9 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 - 💻 Passionate about Frontend Development and modern web technologies
 - 🛠️ Comfortable working across the stack with Java, Spring Boot, HTML, CSS, JavaScript, and MySQL
 - 🎯  2025 Goal: Java
-  📬 Reach me: [Panpailin2020.s@gmail.com](mailto:Panpailin2020.s@gmail.com)
+- 📬 Reach me: [Panpailin2020.s@gmail.com](mailto:Panpailin2020.s@gmail.com)
+
+
 
 ---
 
@@ -143,7 +145,7 @@ Tribal Community Tourism System<br/>
 
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: ⟪email@example.com⟫
+- 💌 Email: [Panpailin2020.s@gmail.com](mailto:Panpailin2020.s@gmail.com)
 - 📝 Schedule a coffee chat: ⟪Calendly link⟫
 - 🐦 DM me on [X/Twitter](⟪url⟫)
 

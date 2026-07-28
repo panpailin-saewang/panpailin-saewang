@@ -78,7 +78,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <tr>
 <td>
 Tribal Community Tourism System<br/>
-<em style="font-size:0.85em; color:#9ca3af;">บทบาทของฉัน: ผู้จัดการท่องเที่ยวชุมชน & เจ้าของโฮมสเตย์</em>
+<em style="font-size:0.85em; color:#9ca3af;">My role: Community Manager & Homestay Owner modules</em>
 </td>
 <td>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -90,7 +90,7 @@ Tribal Community Tourism System<br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </td>
 <td>
-🏡 <strong>การท่องเที่ยวชุมชน</strong>
+🏡 <strong>Community Tourism</strong>
 
 *Add 2–4 projects max. Each row should fit on one screen.*
 

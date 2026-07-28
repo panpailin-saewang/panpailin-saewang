@@ -4,10 +4,11 @@
   <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
 </p>
 
-<h1 align="center">Hi, I’m Panpailin <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">Hi, I’m Panpailin Saewang<img height="20" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
-  <strong>Front-End Developer • IT Student @ Maejo University • Lifelong Learner</strong><br/>
+  <strong>I'm a student at Maejo University, Faculty of Science, majoring in Information Technology.  
+</strong><br/>
   <em>“Front-End Developer passionate about building responsive, user-friendly, and visually appealing web applications.”</em>
 </p>
 
@@ -162,8 +163,6 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 ## 🤝 Let’s Connect
 
-> **“Great products are built by great people working together.”**
-
 - 💌 Email: [Panpailin2020.s@gmail.com](mailto:Panpailin2020.s@gmail.com)
 - 📝 Schedule a coffee chat: ⟪Calendly link⟫
 - 🐦 DM me on [X/Twitter](⟪url⟫)
@@ -171,9 +170,3 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
 </p>
-
-Browse Activities, Tours, and Homestays
-
-Online Booking System
-
-Booking Management

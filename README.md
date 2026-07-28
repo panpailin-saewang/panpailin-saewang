@@ -22,8 +22,6 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 - 🎯  2025 Goal: Java
 - 📬 Reach me: [Panpailin2020.s@gmail.com](mailto:Panpailin2020.s@gmail.com)
 
-
-
 ---
 
 ## 🧳 Tech Stack & Tools
@@ -79,8 +77,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 </tr>
 <tr style="vertical-align: top;">
 <td style="vertical-align: top;">
-Tribal Community Tourism System<br/>
-<em style="font-size:0.85em; color:#9ca3af;">My role: Community Manager & Homestay Owner modules</em>
+🏔️Tribal Community Tourism System
 </td>
 <td style="vertical-align: top;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -88,32 +85,27 @@ Tribal Community Tourism System<br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/><br/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white"/><br/>
+<br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </td>
 <td style="vertical-align: top;">
-🏡 <strong>Community Tourism</strong>
-<p style="margin:4px 0 8px;">Developed a tribal community tourism platform for publishing culture and tourist attractions, featuring a complete search, booking, and online payment system — helping communities generate income in a systematic way.</p>
-<strong>🎪 Activity & Tour Management</strong>
+  👥 <strong>Duo Project Website </strong>
+  <br/>
+<em style="font-size:0.85em; color:#9ca3af;">My role: Community Manager & Homestay Owner modules</em><br>
+🏡 <strong>Tribal Community Tourism</strong>
+<p style="margin:4px 0 8px;">A web platform for promoting tribal community tourism.</p>
+<strong></strong>
 <ul>
-<li>Add, edit, view, and remove tribal activity posts</li>
-<li>Create tours, daily tours, and tour packages</li>
-</ul>
-<strong>📋 Booking & Payment</strong>
-<ul>
-<li>Review tour bookings and tourist lists</li>
-<li>Approve/reject tour payment confirmations</li>
-</ul>
-<strong>🏠 Homestay Management</strong>
-<ul>
-<li>Add/edit rooms and manage availability status</li>
-<li>Review bookings and approve homestay payments</li>
+<li>Browse Activities, Tours, and Homestays</li>
+<li>Online Booking System</li>
+<li>Booking Management</li>
+<li>Payment Verification</li>
+<li>Booking Status Tracking</li>
 </ul>
 </td>
 <td style="vertical-align: top;"><a href="#">Repo</a></td>
 </tr>
 </table>
-
 
 ---
 
@@ -152,3 +144,5 @@ Tribal Community Tourism System<br/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
 </p>
+
+Browse Activities, Tours, and Homestays

@@ -117,6 +117,11 @@ Tribal Community Tourism System<br/>
 
 ## 📈 GitHub Stats
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=panpailin-saewang&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=0" />
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=panpailin-saewang&layout=compact&theme=default&hide_border=true&langs_count=6&cache_seconds=0" />
+</p>
+
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪USERNAME⟫&layout=compact&hide_border=true" />

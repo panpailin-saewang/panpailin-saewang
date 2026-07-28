@@ -19,7 +19,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 
 - 💻 Passionate about Frontend Development and modern web technologies
 - 🛠️ Comfortable working across the stack with Java, Spring Boot, HTML, CSS, JavaScript, and MySQL
-- 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**
+- 🎯  2025 Goal: Java
   📬 Reach me: [Panpailin2020.s@gmail.com](mailto:Panpailin2020.s@gmail.com)
 
 ---

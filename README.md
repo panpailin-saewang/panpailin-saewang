@@ -92,16 +92,14 @@ Tribal Community Tourism System<br/>
 <td>
 🏡 <strong>Community Tourism</strong>
 <ul>
-<li>Publishes culture, traditions, way of life, and tourist attractions of tribal communities</li>
-<li>Lets tourists search activities, tours, and homestays</li>
-<li>Supports end-to-end online booking and payment</li>
-<li>Helps communities generate income in a systematic way</li>
+<li>Developed a system for promoting tribal community tourism, enabling users to search, book, and pay for activities, tours, and homestays while showcasing local culture and traditions</li>
+<strong>🎪 Activity & Tour Management</strong>
+<ul>
+<li>Add, edit, view, and remove tribal activity posts</li>
+<li>Create tours, daily tours, and tour packages</li>
 </ul>
-</td> <td> <a href="#">Repo</a></td>
-</tr>
-</table>
 
-*Add 2–4 projects max. Each row should fit on one screen.*
+*Add 2–4 projects max. Each row should fit on one screen.gg*
 
 ---
 
@@ -116,6 +114,11 @@ Tribal Community Tourism System<br/>
 ---
 
 ## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=panpailin-saewang&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=0" />
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=panpailin-saewang&layout=compact&theme=default&hide_border=true&langs_count=6&cache_seconds=0" />
+</p>
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />

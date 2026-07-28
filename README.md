@@ -16,12 +16,13 @@
 
 ## 🚀 About Me
 
-I'm a fourth-year Information Technology student at Maejo University with a strong interest in Frontend Development. I enjoy creating user-friendly web applications and applying my technical knowledge through academic projects.
+I am a fourth-year Information Technology student at Maejo University with a strong interest in Web Development, especially Frontend Development. I enjoy creating responsive, user-friendly, and visually appealing web applications while ensuring functionality and performance. Passionate about continuous learning, I am always eager to improve my technical skills and embrace new technologies to become a skilled Software Developer.
 
-- 💻 Passionate about Frontend Development and modern web technologies
+- 💻 Passionate about frontend development and modern web technologies
+- 🤝 Strengths: effective teamwork and communication, strong attention to detail, and adaptability in different situations
 - 🛠️ Comfortable working across the stack with Java, Spring Boot, HTML, CSS, JavaScript, and MySQL
-- 🎯  2025 Goal: Java
-- 📬 Reach me: [Panpailin2020.s@gmail.com](mailto:Panpailin2020.s@gmail.com)
+- 🎯 Committed to continuous learning and improving programming skills
+- 📩 Reach me: [Panpailin2020.s@gmail.com](mailto:Panpailin2020.s@gmail.com)
 
 ---
 

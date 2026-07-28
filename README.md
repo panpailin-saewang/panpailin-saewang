@@ -89,8 +89,8 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </td>
 <td style="vertical-align: top;">
-  👥 <strong>Duo Project Website </strong>
-  <br/>
+👥 <strong>Duo Project Website</strong>
+<br/>
 <em style="font-size:0.85em; color:#9ca3af;">My role: Community Manager & Homestay Owner modules</em><br>
 🏡 <strong>Tribal Community Tourism</strong>
 <p style="margin:4px 0 8px;">A web platform for promoting tribal community tourism.</p>
@@ -118,8 +118,8 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </td>
 <td style="vertical-align: top;">
-  👥 <strong>Duo Project Website </strong>
-  <br/>
+👥 <strong>Duo Project Website</strong>
+<br/>
 <em style="font-size:0.85em; color:#9ca3af;">My Role: Developed the Buyer and Property Owner modules.</em><br>
 🏠 <strong>Home Buy & Rent Platform</strong>
 <p style="margin:4px 0 8px;">A web platform for buying, selling, and renting houses.</p>
@@ -128,6 +128,11 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <li>View property details</li>
 <li>Post properties for sale or rent</li>
 <li>Manage property listings</li>
+</ul>
+</td>
+<td style="vertical-align: top;"><a href="#">Repo</a></td>
+</tr>
+</table>
 
 ---
 

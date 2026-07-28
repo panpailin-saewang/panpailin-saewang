@@ -20,7 +20,9 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 - 💻 Passionate about Frontend Development and modern web technologies
 - 🛠️ Comfortable working across the stack with Java, Spring Boot, HTML, CSS, JavaScript, and MySQL
 - 🎯  2025 Goal: Java
-  📬 Reach me: [Panpailin2020.s@gmail.com](mailto:Panpailin2020.s@gmail.com)
+- 📬 Reach me: [Panpailin2020.s@gmail.com](mailto:Panpailin2020.s@gmail.com)
+
+
 
 ---
 
@@ -69,18 +71,18 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 ## 📌 Featured Projects
 
 <table>
-<tr>
+<tr style="vertical-align: top;">
 <th>Project</th>
 <th>Tech</th>
 <th>Key Features</th>
 <th>Links</th>
 </tr>
-<tr>
-<td>
+<tr style="vertical-align: top;">
+<td style="vertical-align: top;">
 Tribal Community Tourism System<br/>
 <em style="font-size:0.85em; color:#9ca3af;">My role: Community Manager & Homestay Owner modules</em>
 </td>
-<td>
+<td style="vertical-align: top;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/><br/>
@@ -89,17 +91,29 @@ Tribal Community Tourism System<br/>
 <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </td>
-<td>
+<td style="vertical-align: top;">
 🏡 <strong>Community Tourism</strong>
-<ul>
-<li>Developed a system for promoting tribal community tourism, enabling users to search, book, and pay for activities, tours, and homestays while showcasing local culture and traditions</li>
+<p style="margin:4px 0 8px;">Developed a tribal community tourism platform for publishing culture and tourist attractions, featuring a complete search, booking, and online payment system — helping communities generate income in a systematic way.</p>
 <strong>🎪 Activity & Tour Management</strong>
 <ul>
 <li>Add, edit, view, and remove tribal activity posts</li>
 <li>Create tours, daily tours, and tour packages</li>
 </ul>
+<strong>📋 Booking & Payment</strong>
+<ul>
+<li>Review tour bookings and tourist lists</li>
+<li>Approve/reject tour payment confirmations</li>
+</ul>
+<strong>🏠 Homestay Management</strong>
+<ul>
+<li>Add/edit rooms and manage availability status</li>
+<li>Review bookings and approve homestay payments</li>
+</ul>
+</td>
+<td style="vertical-align: top;"><a href="#">Repo</a></td>
+</tr>
+</table>
 
-*Add 2–4 projects max. Each row should fit on one screen.gg*
 
 ---
 
@@ -131,7 +145,7 @@ Tribal Community Tourism System<br/>
 
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: ⟪email@example.com⟫
+- 💌 Email: [Panpailin2020.s@gmail.com](mailto:Panpailin2020.s@gmail.com)
 - 📝 Schedule a coffee chat: ⟪Calendly link⟫
 - 🐦 DM me on [X/Twitter](⟪url⟫)
 

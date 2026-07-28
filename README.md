@@ -91,6 +91,7 @@ Tribal Community Tourism System<br/>
 </td>
 <td>
 🏡 <strong>Community Tourism</strong>
+<p style="margin:4px 0 8px;">Developed a tribal community tourism platform for publishing culture and tourist attractions, featuring a complete search, booking, and online payment system — helping communities generate income in a systematic way.</p>
 
 *Add 2–4 projects max. Each row should fit on one screen.*
 

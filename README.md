@@ -94,7 +94,6 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 <em style="font-size:0.85em; color:#9ca3af;">My role: Community Manager & Homestay Owner modules</em><br>
 🏡 <strong>Tribal Community Tourism</strong>
 <p style="margin:4px 0 8px;">A web platform for promoting tribal community tourism.</p>
-<strong></strong>
 <ul>
 <li>Browse Activities, Tours, and Homestays</li>
 <li>Online Booking System</li>
@@ -105,7 +104,30 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 </td>
 <td style="vertical-align: top;"><a href="#">Repo</a></td>
 </tr>
-</table>
+<tr style="vertical-align: top;">
+<td style="vertical-align: top;">
+🏠 House Buying and Rental Management System
+</td>
+<td style="vertical-align: top;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</td>
+<td style="vertical-align: top;">
+  👥 <strong>Duo Project Website </strong>
+  <br/>
+<em style="font-size:0.85em; color:#9ca3af;">My Role: Developed the Buyer and Property Owner modules.</em><br>
+🏠 <strong>Home Buy & Rent Platform</strong>
+<p style="margin:4px 0 8px;">A web platform for buying, selling, and renting houses.</p>
+<ul>
+<li>Browse and search property listings</li>
+<li>View property details</li>
+<li>Post properties for sale or rent</li>
+<li>Manage property listings</li>
 
 ---
 
@@ -146,3 +168,7 @@ I'm a fourth-year Information Technology student at Maejo University with a stro
 </p>
 
 Browse Activities, Tours, and Homestays
+
+Online Booking System
+
+Booking Management

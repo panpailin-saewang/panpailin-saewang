@@ -104,7 +104,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <li>Booking Status Tracking</li>
 </ul>
 </td>
-<td style="vertical-align: top;"><a href="#">Repo</a></td>
+<td style="vertical-align: top;"><a href="https://github.com/Bongkoch359/tribal-community-based-tourism-system.git">Repo</a></td>
 </tr>
 <tr style="vertical-align: top;">
 <td style="vertical-align: top;">
@@ -132,7 +132,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <li>Manage property listings</li>
 </ul>
 </td>
-<td style="vertical-align: top;"><a href="#">Repo</a></td>
+<td style="vertical-align: top;"><a href="https://github.com/panpailin-saewang/my-web-app.git">Repo</a></td>
 </tr>
 </table>
 

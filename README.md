@@ -163,10 +163,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
   <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=panpailin-saewang&layout=compact&theme=default&hide_border=true&langs_count=6&cache_seconds=0" />
 </p>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪USERNAME⟫&layout=compact&hide_border=true" />
-</div>
+
 
 ---
 

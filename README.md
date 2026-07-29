@@ -91,7 +91,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </td>
 <td style="vertical-align: top;">
-👥 <strong>Duo Project Website</strong>
+👥 <strong>Team Project (2 Members)</strong>
 <br/>
 <em style="font-size:0.85em; color:#9ca3af;">My role: Community Manager & Homestay Owner modules</em><br>
 🏡 <strong>Tribal Community Tourism</strong>
@@ -104,7 +104,11 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <li>Booking Status Tracking</li>
 </ul>
 </td>
-<td style="vertical-align: top;"><a href="https://github.com/Bongkoch359/tribal-community-based-tourism-system.git">Repo</a></td>
+<td style="vertical-align: top;">
+  <a href="https://github.com/Bongkoch359/tribal-community-based-tourism-system.git">
+    <img src="https://img.shields.io/badge/🔗_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+  </a>
+</td>
 </tr>
 <tr style="vertical-align: top;">
 <td style="vertical-align: top;">
@@ -120,7 +124,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </td>
 <td style="vertical-align: top;">
-👥 <strong>Duo Project Website</strong>
+👥 <strong>Team Project (2 Members)</strong>
 <br/>
 <em style="font-size:0.85em; color:#9ca3af;">My Role: Developed the Buyer and Property Owner modules.</em><br>
 🏠 <strong>Home Buy & Rent Platform</strong>
@@ -132,7 +136,11 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <li>Manage property listings</li>
 </ul>
 </td>
-<td style="vertical-align: top;"><a href="https://github.com/panpailin-saewang/my-web-app.git">Repo</a></td>
+<td style="vertical-align: top;">
+  <a href="https://github.com/panpailin-saewang/my-web-app.git">
+    <img src="https://img.shields.io/badge/🔗_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+  </a>
+</td>
 </tr>
 </table>
 
@@ -162,12 +170,13 @@ I am a fourth-year Information Technology student at Maejo University with a str
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-- 💌 Email: [Panpailin2020.s@gmail.com](mailto:Panpailin2020.s@gmail.com)
-- 📝 Schedule a coffee chat: ⟪Calendly link⟫
-- 🐦 DM me on [X/Twitter](⟪url⟫)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
+<p>
+📧 <b>Email:</b> <a href="mailto:Panpailin2020.s@gmail.com"><img src="https://img.shields.io/badge/Panpailin2020.s@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a><br/>
+💻 <b>GitHub:</b> <a href="https://github.com/panpailin-saewang"><img src="https://img.shields.io/badge/panpailin--saewang-181717?style=flat-square&logo=github&logoColor=white"/></a><br/>
+💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/panpailinsaewang"><img src="https://img.shields.io/badge/panpailinsaewang-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a><br/>
+📘 <b>Facebook:</b> <a href="https://facebook.com/ปานไพลิน'น"><img src="https://img.shields.io/badge/ปานไพลิน'น-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 </p>
+
+[![profile views](https://camo.githubusercontent.com/e23fd0a392a33ced9e07f5413e76c757dab8f79dc7aa1c04cf82a86535fc669b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653de29faa555345524e414d45e29fab267374796c653d666c61742d737175617265)](https://camo.githubusercontent.com/e23fd0a392a33ced9e07f5413e76c757dab8f79dc7aa1c04cf82a86535fc669b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653de29faa555345524e414d45e29fab267374796c653d666c61742d737175617265)

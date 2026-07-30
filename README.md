@@ -103,6 +103,11 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <li>Payment Verification</li>
 <li>Booking Status Tracking</li>
 </ul>
+  <strong >🔧 My Responsibilities:</strong>
+  <ul >
+    <li><strong>Community Manager Module</strong> — manage tourism activities and tour listings, approve/edit content, track booking status</li>
+    <li><strong>Homestay Owner Module</strong> — manage homestay listings and availability, handle booking requests, verify payments</li>
+  </ul>
 </td>
 <td style="vertical-align: top;">
   <a href="https://github.com/Bongkoch359/tribal-community-based-tourism-system.git">
@@ -113,6 +118,15 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <tr style="vertical-align: top;">
 <td style="vertical-align: top;">
 🏠 House Buying and Rental Management System
+  <img src="image/Screenshot 2026-07-30 214806.png"
+  style="
+    width: 100%;
+    max-width: 400px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    display: block;
+    margin: 8px auto;
+  "/>
 </td>
 <td style="vertical-align: top;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>

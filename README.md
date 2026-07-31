@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I’m Panpailin Saewang<img height="20" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
-  <strong>I'm a student at Maejo University, Faculty of Science, majoring in Information Technology.  
+  <strong> student at Maejo University, Faculty of Science, majoring in Information Technology.  
 </strong><br/>
   <em>“Front-End Developer passionate about building responsive, user-friendly, and visually appealing web applications.”</em>
 </p>

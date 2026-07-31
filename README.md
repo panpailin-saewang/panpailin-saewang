@@ -141,7 +141,8 @@ I am a fourth-year Information Technology student at Maejo University with a str
 </tr>
 <tr style="vertical-align: top;">
 <td style="vertical-align: top;">
-🏠 House Buying and Rental Management System <br>
+🏠 House Buying and Rental Management System 
+  <br><br>
   <img src="image/Screenshot 2026-07-30 214806.png"
   style="
     width: 100%;

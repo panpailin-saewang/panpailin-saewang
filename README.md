@@ -23,7 +23,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
 - 🛠️ Comfortable working across the stack with Java, Spring Boot, HTML, CSS, JavaScript, and MySQL
 - 🎯 Committed to continuous learning and improving programming skills
 - 📩 Reach me: [Panpailin2020.s@gmail.com](mailto:Panpailin2020.s@gmail.com)
-📍 Current Project: Developing a Tribal Community Tourism System, a web application that promotes tribal community tourism by providing information about tours, homestays, and community activities.
+- 📍 Current Project: Developing a Tribal Community Tourism System, a web application that promotes tribal community tourism by providing information about tours, homestays, and community activities.
 
 
 

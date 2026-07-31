@@ -82,7 +82,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
 </tr>
 <tr style="vertical-align: top;">
 <td style="vertical-align: top;">
-🏔️Tribal Community Tourism System
+🏔️Tribal Community Tourism System <br>
   <img src="image\Screenshot 2026-07-31 100027.png"
   style="
     width: 100%;
@@ -140,7 +140,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
 </tr>
 <tr style="vertical-align: top;">
 <td style="vertical-align: top;">
-🏠 House Buying and Rental Management System
+🏠 House Buying and Rental Management System <br>
   <img src="image/Screenshot 2026-07-30 214806.png"
   style="
     width: 100%;

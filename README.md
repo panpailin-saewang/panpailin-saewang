@@ -82,7 +82,8 @@ I am a fourth-year Information Technology student at Maejo University with a str
 </tr>
 <tr style="vertical-align: top;">
 <td style="vertical-align: top;">
-🏔️Tribal Community Tourism System <br>
+🏔️Tribal Community Tourism System 
+  <br><br>
   <img src="image\Screenshot 2026-07-31 100027.png"
   style="
     width: 100%;

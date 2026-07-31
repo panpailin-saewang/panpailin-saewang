@@ -80,6 +80,15 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <tr style="vertical-align: top;">
 <td style="vertical-align: top;">
 🏔️Tribal Community Tourism System
+  <img src="image\Screenshot 2026-07-31 100027.png"
+  style="
+    width: 100%;
+    max-width: 400px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    display: block;
+    margin: 8px auto;
+  "/>
 </td>
 <td style="vertical-align: top;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -160,17 +169,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
 
 ---
 
-## ✍🏻 Recent Blog / Talks
-
-<!-- GH Action can automate this section; placeholder for manual list -->
-
-- ⟪May 2025⟫ • **Observable-Ready Dashboards** at BangkokJS
-- ⟪Apr 2025⟫ • Published *“Scalable Monorepo Patterns”* on Medium
-- ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
-
----
-
-## 📈 GitHub Stats
+📈 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=panpailin-saewang&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=0" />

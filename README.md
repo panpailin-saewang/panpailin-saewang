@@ -118,11 +118,20 @@ I am a fourth-year Information Technology student at Maejo University with a str
     <li><strong>Homestay Owner Module</strong> — manage homestay listings and availability, handle booking requests, verify payments <em>(Front-end & Back-end)</em></li>
 </ul>
 </td>
-<td style="vertical-align: top; text-align: center;">
-  <a href="https://github.com/Bongkoch359/tribal-community-based-tourism-system.git">
-    <img src="https://img.shields.io/badge/🔗_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" 
-         alt="Repo" 
-         style="height:36px; width:auto;"/>
+<td style="vertical-align: top; text-align: center; padding: 12px 8px;">
+  <a href="https://github.com/Bongkoch359/tribal-community-based-tourism-system.git"
+     style="
+       display: inline-block;
+       background-color: #181717;
+       color: #ffffff;
+       text-decoration: none;
+       font-size: 13px;
+       font-weight: 600;
+       padding: 8px 14px;
+       border-radius: 6px;
+       white-space: nowrap;
+     ">
+    🔗 View Repo
   </a>
 </td>
 </tr>
@@ -160,11 +169,20 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <li><strong>Property Owner (Seller) Module:</strong> Post properties for sale or rent, manage property listings</li>
 </ul>
 </td>
-<td style="vertical-align: top; text-align: center;">
-  <a href="https://github.com/panpailin-saewang/my-web-app.git">
-    <img src="https://img.shields.io/badge/🔗_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" 
-         alt="Repo" 
-         style="height:36px; width:auto;"/>
+<td style="vertical-align: top; text-align: center; padding: 12px 8px;">
+  <a href="https://github.com/panpailin-saewang/my-web-app.git"
+     style="
+       display: inline-block;
+       background-color: #181717;
+       color: #ffffff;
+       text-decoration: none;
+       font-size: 13px;
+       font-weight: 600;
+       padding: 8px 14px;
+       border-radius: 6px;
+       white-space: nowrap;
+     ">
+    🔗 View Repo
   </a>
 </td>
 </tr>

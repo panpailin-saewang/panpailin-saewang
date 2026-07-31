@@ -113,10 +113,10 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <li>Booking Status Tracking</li>
 </ul>
   <strong >🔧 My Responsibilities:</strong>
-  <ul >
-    <li><strong>Community Manager Module</strong> — manage tourism activities and tour listings, approve/edit content, track booking status</li>
-    <li><strong>Homestay Owner Module</strong> — manage homestay listings and availability, handle booking requests, verify payments</li>
-  </ul>
+  <ul>
+    <li><strong>Community Manager Module</strong> — manage tourism activities and tour listings, approve/edit content, track booking status <em>(Front-end & Back-end)</em></li>
+    <li><strong>Homestay Owner Module</strong> — manage homestay listings and availability, handle booking requests, verify payments <em>(Front-end & Back-end)</em></li>
+</ul>
 </td>
 <td style="vertical-align: top;">
   <a href="https://github.com/Bongkoch359/tribal-community-based-tourism-system.git">
@@ -149,14 +149,12 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <td style="vertical-align: top;">
 👥 <strong>Team Project (2 Members)</strong>
 <br/>
-<em style="font-size:0.85em; color:#9ca3af;">My Role: Developed the Buyer and Property Owner modules.</em><br>
+<em style="font-size:0.85em; color:#9ca3af;">My Role: Developed the Buyer and Property Owner (Seller) modules.</em><br>
 🏠 <strong>Home Buy & Rent Platform</strong>
 <p style="margin:4px 0 8px;">A web platform for buying, selling, and renting houses.</p>
 <ul>
-<li>Browse and search property listings</li>
-<li>View property details</li>
-<li>Post properties for sale or rent</li>
-<li>Manage property listings</li>
+<li><strong>Buyer Module:</strong> Browse and search property listings, view property details</li>
+<li><strong>Property Owner (Seller) Module:</strong> Post properties for sale or rent, manage property listings</li>
 </ul>
 </td>
 <td style="vertical-align: top;">

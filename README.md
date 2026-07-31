@@ -152,6 +152,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <em style="font-size:0.85em; color:#9ca3af;">My Role: Developed the Buyer and Property Owner (Seller) modules.</em><br>
 🏠 <strong>Home Buy & Rent Platform</strong>
 <p style="margin:4px 0 8px;">A web platform for buying, selling, and renting houses.</p>
+  <strong >🔧 My Responsibilities:</strong>
 <ul>
 <li><strong>Buyer Module:</strong> Browse and search property listings, view property details</li>
 <li><strong>Property Owner (Seller) Module:</strong> Post properties for sale or rent, manage property listings</li>

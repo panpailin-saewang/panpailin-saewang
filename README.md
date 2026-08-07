@@ -177,7 +177,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
 
 <td style="vertical-align: top;">
 
-  <a href="[https://github.com/panpailin-saewang/my-web-app.git](https://github.com/panpailin-saewang/-house-buying-rental-management-system.git)"
+ <a href="https://github.com/panpailin-saewang/-house-buying-rental-management-system.git"
      style="
        display: inline-block;
        background-color: #181717;
@@ -190,7 +190,6 @@ I am a fourth-year Information Technology student at Maejo University with a str
        white-space: nowrap;
      ">
     🔗 View Repo
-
   </a>
 </td>
 </tr>

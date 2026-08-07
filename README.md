@@ -137,6 +137,40 @@ I am a fourth-year Information Technology student at Maejo University with a str
      ">
     🔗 View Repo
   </a>
+  เข้าใจแล้วครับ อยากเพิ่มปุ่ม/ลิงก์ YouTube สำหรับวิดีโอ demo ควบคู่กับปุ่ม View Repo ใช่ไหม ผมทำสไตล์แบบเดียวกันแต่ใช้สีแดงของ YouTube ให้แยกความแตกต่างชัดเจน แบบนี้ครับ:
+
+html
+</td>
+<td style="vertical-align: top; text-align: center; padding: 12px 8px;">
+  <a href="https://github.com/Bongkoch359/tribal-community-based-tourism-system.git"
+     style="
+       display: inline-block;
+       background-color: #181717;
+       color: #ffffff;
+       text-decoration: none;
+       font-size: 13px;
+       font-weight: 600;
+       padding: 8px 14px;
+       border-radius: 6px;
+       white-space: nowrap;
+     ">
+    🔗 View Repo
+  </a>
+  <br/><br/>
+  <a href="https://youtu.be/fKZLVcavgxY"
+     style="
+       display: inline-block;
+       background-color: #FF0000;
+       color: #ffffff;
+       text-decoration: none;
+       font-size: 13px;
+       font-weight: 600;
+       padding: 8px 14px;
+       border-radius: 6px;
+       white-space: nowrap;
+     ">
+    ▶️ Watch Demo
+  </a>
 </td>
 </tr>
 <tr style="vertical-align: top;">

@@ -1,13 +1,13 @@
 <!-- Banner / Cover -->
 
 <p align="center">
-  <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
+  <img src="image\github-header-banner.png" alt="header image" />
 </p>
 
 <h1 align="center">Hi, I’m Panpailin Saewang<img height="20" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
-  <strong>I'm a student at Maejo University, Faculty of Science, majoring in Information Technology.  
+  <strong> Student at Maejo University, Faculty of Science, majoring in Information Technology.  
 </strong><br/>
   <em>“Front-End Developer passionate about building responsive, user-friendly, and visually appealing web applications.”</em>
 </p>
@@ -23,6 +23,9 @@ I am a fourth-year Information Technology student at Maejo University with a str
 - 🛠️ Comfortable working across the stack with Java, Spring Boot, HTML, CSS, JavaScript, and MySQL
 - 🎯 Committed to continuous learning and improving programming skills
 - 📩 Reach me: [Panpailin2020.s@gmail.com](mailto:Panpailin2020.s@gmail.com)
+- 📍 Current Project: Developing a Tribal Community Tourism System, a web application that promotes tribal community tourism by providing information about tours, homestays, and community activities.
+
+
 
 ---
 
@@ -79,7 +82,8 @@ I am a fourth-year Information Technology student at Maejo University with a str
 </tr>
 <tr style="vertical-align: top;">
 <td style="vertical-align: top;">
-🏔️Tribal Community Tourism System
+🏔️Tribal Community Tourism System 
+  <br><br>
   <img src="image\Screenshot 2026-07-31 100027.png"
   style="
     width: 100%;
@@ -113,14 +117,25 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <li>Booking Status Tracking</li>
 </ul>
   <strong >🔧 My Responsibilities:</strong>
-  <ul >
-    <li><strong>Community Manager Module</strong> — manage tourism activities and tour listings, approve/edit content, track booking status</li>
-    <li><strong>Homestay Owner Module</strong> — manage homestay listings and availability, handle booking requests, verify payments</li>
-  </ul>
+  <ul>
+    <li><strong>Community Manager Module</strong> — manage tourism activities and tour listings, approve/edit content, track booking status <em>(Front-end & Back-end)</em></li>
+    <li><strong>Homestay Owner Module</strong> — manage homestay listings and availability, handle booking requests, verify payments <em>(Front-end & Back-end)</em></li>
+</ul>
 </td>
-<td style="vertical-align: top;">
-  <a href="https://github.com/Bongkoch359/tribal-community-based-tourism-system.git">
-    <img src="https://img.shields.io/badge/🔗_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+<td style="vertical-align: top; text-align: center; padding: 12px 8px;">
+  <a href="https://github.com/Bongkoch359/tribal-community-based-tourism-system.git"
+     style="
+       display: inline-block;
+       background-color: #181717;
+       color: #ffffff;
+       text-decoration: none;
+       font-size: 13px;
+       font-weight: 600;
+       padding: 8px 14px;
+       border-radius: 6px;
+       white-space: nowrap;
+     ">
+    🔗 View Repo
   </a>
 </td>
 </tr>
@@ -128,6 +143,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <td style="vertical-align: top;">
 🏠 House Buying and Rental Management System
   <img src="image\Screenshot 2026-08-07 185222.png"
+
   style="
     width: 100%;
     max-width: 400px;
@@ -138,7 +154,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
   "/>
 </td>
 <td style="vertical-align: top;">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/><br/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
@@ -149,19 +165,34 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <td style="vertical-align: top;">
 👥 <strong>Team Project (2 Members)</strong>
 <br/>
-<em style="font-size:0.85em; color:#9ca3af;">My Role: Developed the Buyer and Property Owner modules.</em><br>
+<em style="font-size:0.85em; color:#9ca3af;">My Role: Developed the Buyer and Property Owner (Seller) modules.</em><br>
 🏠 <strong>Home Buy & Rent Platform</strong>
 <p style="margin:4px 0 8px;">A web platform for buying, selling, and renting houses.</p>
+  <strong >🔧 My Responsibilities:</strong>
 <ul>
-<li>Browse and search property listings</li>
-<li>View property details</li>
-<li>Post properties for sale or rent</li>
-<li>Manage property listings</li>
+<li><strong>Buyer Module:</strong> Browse and search property listings, view property details</li>
+<li><strong>Property Owner (Seller) Module:</strong> Post properties for sale or rent, manage property listings</li>
 </ul>
 </td>
+
 <td style="vertical-align: top;">
   <a href="https://github.com/panpailin-saewang/-house-buying-rental-management-system.git">
     <img src="https://img.shields.io/badge/🔗_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+
+  <a href="https://github.com/panpailin-saewang/my-web-app.git"
+     style="
+       display: inline-block;
+       background-color: #181717;
+       color: #ffffff;
+       text-decoration: none;
+       font-size: 13px;
+       font-weight: 600;
+       padding: 8px 14px;
+       border-radius: 6px;
+       white-space: nowrap;
+     ">
+    🔗 View Repo
+
   </a>
 </td>
 </tr>
@@ -176,10 +207,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
   <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=panpailin-saewang&layout=compact&theme=default&hide_border=true&langs_count=6&cache_seconds=0" />
 </p>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪USERNAME⟫&layout=compact&hide_border=true" />
-</div>
+
 
 ---
 

@@ -175,9 +175,8 @@ I am a fourth-year Information Technology student at Maejo University with a str
 </ul>
 </td>
 
-<td style="vertical-align: top;">
-
- <a href="https://github.com/panpailin-saewang/-house-buying-rental-management-system.git"
+<td style="vertical-align: top; text-align: center; padding: 12px 8px;">
+  <a href="https://github.com/panpailin-saewang/-house-buying-rental-management-system.git"
      style="
        display: inline-block;
        background-color: #181717;

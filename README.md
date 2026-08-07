@@ -141,9 +141,9 @@ I am a fourth-year Information Technology student at Maejo University with a str
 </tr>
 <tr style="vertical-align: top;">
 <td style="vertical-align: top;">
-🏠 House Buying and Rental Management System 
-  <br><br>
-  <img src="image/Screenshot 2026-07-30 214806.png"
+🏠 House Buying and Rental Management System
+  <img src="image\Screenshot 2026-08-07 185222.png"
+
   style="
     width: 100%;
     max-width: 400px;
@@ -174,7 +174,11 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <li><strong>Property Owner (Seller) Module:</strong> Post properties for sale or rent, manage property listings</li>
 </ul>
 </td>
-<td style="vertical-align: top; text-align: center; padding: 12px 8px;">
+
+<td style="vertical-align: top;">
+  <a href="https://github.com/panpailin-saewang/-house-buying-rental-management-system.git">
+    <img src="https://img.shields.io/badge/🔗_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+
   <a href="https://github.com/panpailin-saewang/my-web-app.git"
      style="
        display: inline-block;
@@ -188,6 +192,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
        white-space: nowrap;
      ">
     🔗 View Repo
+
   </a>
 </td>
 </tr>

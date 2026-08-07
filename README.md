@@ -25,8 +25,6 @@ I am a fourth-year Information Technology student at Maejo University with a str
 - 📩 Reach me: [Panpailin2020.s@gmail.com](mailto:Panpailin2020.s@gmail.com)
 - 📍 Current Project: Developing a Tribal Community Tourism System, a web application that promotes tribal community tourism by providing information about tours, homestays, and community activities.
 
-
-
 ---
 
 ## 🧳 Tech Stack & Tools
@@ -137,25 +135,6 @@ I am a fourth-year Information Technology student at Maejo University with a str
      ">
     🔗 View Repo
   </a>
-  เข้าใจแล้วครับ อยากเพิ่มปุ่ม/ลิงก์ YouTube สำหรับวิดีโอ demo ควบคู่กับปุ่ม View Repo ใช่ไหม ผมทำสไตล์แบบเดียวกันแต่ใช้สีแดงของ YouTube ให้แยกความแตกต่างชัดเจน แบบนี้ครับ:
-
-html
-</td>
-<td style="vertical-align: top; text-align: center; padding: 12px 8px;">
-  <a href="https://github.com/Bongkoch359/tribal-community-based-tourism-system.git"
-     style="
-       display: inline-block;
-       background-color: #181717;
-       color: #ffffff;
-       text-decoration: none;
-       font-size: 13px;
-       font-weight: 600;
-       padding: 8px 14px;
-       border-radius: 6px;
-       white-space: nowrap;
-     ">
-    🔗 View Repo
-  </a>
   <br/><br/>
   <a href="https://youtu.be/fKZLVcavgxY"
      style="
@@ -176,8 +155,8 @@ html
 <tr style="vertical-align: top;">
 <td style="vertical-align: top;">
 🏠 House Buying and Rental Management System
+  <br><br>
   <img src="image\Screenshot 2026-08-07 185222.png"
-
   style="
     width: 100%;
     max-width: 400px;
@@ -188,7 +167,6 @@ html
   "/>
 </td>
 <td style="vertical-align: top;">
-
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/><br/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
@@ -208,7 +186,6 @@ html
 <li><strong>Property Owner (Seller) Module:</strong> Post properties for sale or rent, manage property listings</li>
 </ul>
 </td>
-
 <td style="vertical-align: top; text-align: center; padding: 12px 8px;">
   <a href="https://github.com/panpailin-saewang/-house-buying-rental-management-system.git"
      style="
@@ -224,6 +201,21 @@ html
      ">
     🔗 View Repo
   </a>
+  <br/><br/>
+  <a href="https://youtu.be/YOUR_VIDEO_ID"
+     style="
+       display: inline-block;
+       background-color: #FF0000;
+       color: #ffffff;
+       text-decoration: none;
+       font-size: 13px;
+       font-weight: 600;
+       padding: 8px 14px;
+       border-radius: 6px;
+       white-space: nowrap;
+     ">
+    ▶️ Watch Demo
+  </a>
 </td>
 </tr>
 </table>
@@ -236,8 +228,6 @@ html
   <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=panpailin-saewang&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=0" />
   <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=panpailin-saewang&layout=compact&theme=default&hide_border=true&langs_count=6&cache_seconds=0" />
 </p>
-
-
 
 ---
 

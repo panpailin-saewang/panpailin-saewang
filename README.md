@@ -176,10 +176,8 @@ I am a fourth-year Information Technology student at Maejo University with a str
 </td>
 
 <td style="vertical-align: top;">
-  <a href="https://github.com/panpailin-saewang/-house-buying-rental-management-system.git">
-    <img src="https://img.shields.io/badge/🔗_View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
 
-  <a href="https://github.com/panpailin-saewang/my-web-app.git"
+  <a href="[https://github.com/panpailin-saewang/my-web-app.git](https://github.com/panpailin-saewang/-house-buying-rental-management-system.git)"
      style="
        display: inline-block;
        background-color: #181717;

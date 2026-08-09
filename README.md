@@ -201,21 +201,6 @@ I am a fourth-year Information Technology student at Maejo University with a str
      ">
     🔗 View Repo
   </a>
-  <br/><br/>
-  <a href="https://youtu.be/YOUR_VIDEO_ID"
-     style="
-       display: inline-block;
-       background-color: #FF0000;
-       color: #ffffff;
-       text-decoration: none;
-       font-size: 13px;
-       font-weight: 600;
-       padding: 8px 14px;
-       border-radius: 6px;
-       white-space: nowrap;
-     ">
-    ▶️ Watch Demo
-  </a>
 </td>
 </tr>
 </table>

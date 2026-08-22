@@ -31,48 +31,58 @@ I am a fourth-year Information Technology student at Maejo University with a str
 
 <table>
 <tr>
-<th>Category</th>
-<th>Technologies</th>
+<th>Domain</th>
+<th>Primary</th>
+<th>Comfortable</th>
 <th>Currently Exploring</th>
 </tr>
 <tr>
-<td>🎨 Front-end</td>
+<td><b>Front-end</b></td>
 <td>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </td>
 <td></td>
+<td>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+</td>
 </tr>
 <tr>
-<td>⚙️ Back-end</td>
+<td><b>Back-end</b></td>
 <td>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white"/>
+</td>
+<td>
 <img src="https://img.shields.io/badge/RESTful%20API-FF6C37?style=flat&logo=fastapi&logoColor=white"/>
-</td>
-<td>
-<img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat&logo=kubernetes&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td>🗄️ Database</td>
-<td>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </td>
 <td></td>
 </tr>
 <tr>
-<td>🛠️ Tools</td>
+<td><b>Data</b></td>
+<td>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+</td>
+<td></td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
 <td>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </td>
 <td>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</td>
+<td>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
 </td>
 </tr>
 </table>

@@ -48,6 +48,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/RESTful%20API-FF6C37?style=flat&logo=fastapi&logoColor=white"/>
 </td>
 </tr>
 <tr>

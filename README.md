@@ -44,7 +44,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </td>
 <td></td>
-
+<td></td>
 </tr>
 <tr>
 <td><b>Back-end</b></td>

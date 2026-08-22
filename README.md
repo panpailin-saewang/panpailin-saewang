@@ -33,6 +33,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <tr>
 <th>Category</th>
 <th>Technologies</th>
+<th>Currently Exploring</th>
 </tr>
 <tr>
 <td>🎨 Front-end</td>
@@ -41,6 +42,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </td>
+<td></td>
 </tr>
 <tr>
 <td>⚙️ Back-end</td>
@@ -50,12 +52,16 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/RESTful%20API-FF6C37?style=flat&logo=fastapi&logoColor=white"/>
 </td>
+<td>
+<img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat&logo=kubernetes&logoColor=white"/>
+</td>
 </tr>
 <tr>
 <td>🗄️ Database</td>
 <td>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </td>
+<td></td>
 </tr>
 <tr>
 <td>🛠️ Tools</td>
@@ -64,6 +70,9 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+</td>
+<td>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 </td>
 </tr>
 </table>

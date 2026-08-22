@@ -44,10 +44,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </td>
 <td></td>
-<td>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-</td>
+
 </tr>
 <tr>
 <td><b>Back-end</b></td>

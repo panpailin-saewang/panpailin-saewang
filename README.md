@@ -44,7 +44,9 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </td>
 <td style="border: 1px solid #ccc; padding: 6px;"></td>
-<td style="border: 1px solid #ccc; padding: 6px;"></td>
+<td style="border: 1px solid #ccc; padding: 6px;">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+</td>
 </tr>
 <tr>
 <td style="border: 1px solid #ccc; padding: 6px;"><b>Back-end</b></td>
@@ -53,7 +55,6 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 </td>
 <td style="border: 1px solid #ccc; padding: 6px;">
-
 </td>
 <td style="border: 1px solid #ccc; padding: 6px;">
   <img src="https://img.shields.io/badge/RESTful%20API-FF6C37?style=flat&logo=fastapi&logoColor=white"/>

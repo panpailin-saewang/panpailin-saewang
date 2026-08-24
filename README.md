@@ -53,10 +53,12 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 </td>
 <td style="border: 1px solid #ccc; padding: 6px;">
-<img src="https://img.shields.io/badge/RESTful%20API-FF6C37?style=flat&logo=fastapi&logoColor=white"/>
+
+</td>
+<td style="border: 1px solid #ccc; padding: 6px;">
+  <img src="https://img.shields.io/badge/RESTful%20API-FF6C37?style=flat&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat&logo=kubernetes&logoColor=white"/>
 </td>
-<td style="border: 1px solid #ccc; padding: 6px;"></td>
 </tr>
 <tr>
 <td style="border: 1px solid #ccc; padding: 6px;">Data</td>

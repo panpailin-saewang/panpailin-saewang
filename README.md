@@ -29,53 +29,53 @@ I am a fourth-year Information Technology student at Maejo University with a str
 
 ## 🧳 Tech Stack & Tools
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
 <tr>
-<th>Domain</th>
-<th>Primary</th>
-<th>Comfortable</th>
-<th>Currently Exploring</th>
+<th style="border: 1px solid #ccc; padding: 6px;">Domain</th>
+<th style="border: 1px solid #ccc; padding: 6px;">Primary</th>
+<th style="border: 1px solid #ccc; padding: 6px;">Comfortable</th>
+<th style="border: 1px solid #ccc; padding: 6px;">Currently Exploring</th>
 </tr>
 <tr>
-<td><b>Front-end</b></td>
-<td>
+<td style="border: 1px solid #ccc; padding: 6px;"><b>Front-end</b></td>
+<td style="border: 1px solid #ccc; padding: 6px;">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </td>
-<td></td>
-<td></td>
+<td style="border: 1px solid #ccc; padding: 6px;"></td>
+<td style="border: 1px solid #ccc; padding: 6px;"></td>
 </tr>
 <tr>
-<td><b>Back-end</b></td>
-<td>
+<td style="border: 1px solid #ccc; padding: 6px;"><b>Back-end</b></td>
+<td style="border: 1px solid #ccc; padding: 6px;">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 </td>
-
-<td>
-  <img src="https://img.shields.io/badge/RESTful%20API-FF6C37?style=flat&logo=fastapi&logoColor=white"/>
+<td style="border: 1px solid #ccc; padding: 6px;">
+<img src="https://img.shields.io/badge/RESTful%20API-FF6C37?style=flat&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat&logo=kubernetes&logoColor=white"/>
 </td>
+<td style="border: 1px solid #ccc; padding: 6px;"></td>
 </tr>
 <tr>
-<td><b>Data</b></td>
-<td>
+<td style="border: 1px solid #ccc; padding: 6px;">Data</td>
+<td style="border: 1px solid #ccc; padding: 6px;">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </td>
-<td></td>
-<td></td>
+<td style="border: 1px solid #ccc; padding: 6px;"></td>
+<td style="border: 1px solid #ccc; padding: 6px;"></td>
 </tr>
 <tr>
-<td>🛠️ Tools</td>
-<td>
+<td style="border: 1px solid #ccc; padding: 6px;">🛠️ Tools</td>
+<td style="border: 1px solid #ccc; padding: 6px;">
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </td>
-<td></td>
-<td>
+<td style="border: 1px solid #ccc; padding: 6px;"></td>
+<td style="border: 1px solid #ccc; padding: 6px;">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 </td>
 </tr>

@@ -53,6 +53,7 @@ I am a fourth-year Information Technology student at Maejo University with a str
 <td style="border: 1px solid #ccc; padding: 6px;">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white"/>
 </td>
 <td style="border: 1px solid #ccc; padding: 6px;">
 </td>

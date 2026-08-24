@@ -9,14 +9,14 @@
 <p align="center">
   <strong> Student at Maejo University, Faculty of Science, majoring in Information Technology.  
 </strong><br/>
-  <em>“Front-End Developer passionate about building responsive, user-friendly, and visually appealing web applications.”</em>
+  <em>“Full Stack Developer passionate about building responsive, user-friendly web applications and developing efficient frontend and backend solutions.”</em>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a fourth-year Information Technology student at Maejo University with a strong interest in Web Development, especially Frontend Development. I enjoy creating responsive, user-friendly, and visually appealing web applications while ensuring functionality and performance. Passionate about continuous learning, I am always eager to improve my technical skills and embrace new technologies to become a skilled Software Developer.
+I am a fourth-year Information Technology student at Maejo University with a strong interest in Full-Stack Web Development. I enjoy developing responsive, user-friendly, and visually appealing web applications while working on both frontend and backend functionality. Passionate about continuous learning, I am always eager to improve my technical skills, explore new technologies, and develop efficient and reliable web applications to become a skilled Full-Stack Developer.
 
 - 💻 Passionate about frontend development and modern web technologies
 - 🤝 Strengths: effective teamwork and communication, strong attention to detail, and adaptability in different situations

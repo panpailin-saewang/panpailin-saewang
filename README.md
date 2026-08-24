@@ -1,7 +1,7 @@
 <!-- Banner / Cover -->
 
 <p align="center">
-  <img src="image\github-header-banner.png" alt="header image" />
+  <img src="image/ChatGPT Image 24 ส.ค. 2569 13_52_33.png" alt="header image" />
 </p>
 
 <h1 align="center">Hi, I’m Panpailin Saewang<img height="20" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
